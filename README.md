@@ -1,0 +1,1 @@
+This repository contains pose, attitude and control datasets extracted from AutoDRIVE datasets and processed to make them compatible with Project-Varuna GUI. These datasets can directly be used with the GUI to either create new data-driven models or for deployment in path tracking setting.
