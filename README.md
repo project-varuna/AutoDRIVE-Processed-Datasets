@@ -10,7 +10,7 @@ This repository contains pose, attitude and control datasets extracted from Auto
 
 ### About This Repository
 
-This repository processes and compiles all individual files from the offroad [`AutoDRIVE-Hunter-SE-Dataset`](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/tree/on-road-dataset) into the "AutoDRIVE" format used in the Project Varuna GUI. The original dataset was collected using the AutoDRIVE Ecosystem, capturing data from the **Hunter SE** vehicle. For more information, visit the [AutoDRIVE-Hunter-SE repository](https://github.com/Tinker-Twins/AutoDRIVE).
+This repository processes and compiles all individual files from the onroad [`AutoDRIVE-Hunter-SE-Dataset`](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset/tree/on-road-dataset) into the "AutoDRIVE" format used in the Project Varuna GUI. The original dataset was collected using the **AutoDRIVE Ecosystem**, capturing data from the Hunter SE vehicle. For more information, visit the [AutoDRIVE-Hunter-SE repository](https://github.com/Tinker-Twins/AutoDRIVE).
 
 ## Dataset Structure
 
